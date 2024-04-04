@@ -1,4 +1,3 @@
-Flask==3.0.2
 lancedb==0.6.4
 numpy==1.26.4
 pandas==2.2.1
@@ -7,3 +6,5 @@ sentence_transformers==2.4.0
 openai
 tantivy
 ruff
+shiny
+shinyswatch
